@@ -1,5 +1,5 @@
 # Testing service for MedCentral application
-This is a shared code repository for the Testing service of MedCentral application
+This is a code repository for the Testing service of MedCentral application
 
 [For testers & public - how to run the program]
 
